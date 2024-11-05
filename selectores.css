@@ -1,0 +1,108 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+    color: #333; 
+  }
+  
+
+  h1 {
+    font-size: 2.5em;
+    color: #12608e; 
+    text-align: center;
+  }
+  
+  h2, h3, h4, h5, h6 {
+    color: #4c9dbd;
+  }
+  
+
+  a {
+    color: #ff866a; 
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: #1F2041; 
+  }
+  
+
+  header {
+    background-color: #1F2041; 
+    color: #fff; 
+    padding: 15px;
+    text-align: center;
+  }
+  
+  section {
+    margin: 20px;
+    padding: 15px;
+    background-color: #fff; 
+    border: 1px solid #ddd; 
+  }
+  
+ 
+  article {
+    border: 1px solid #4B3F72; 
+    padding: 10px;
+    margin: 10px 0;
+  }
+  
+ 
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 15px;
+  }
+  
+  table th, table td {
+    border: 1px solid #4B3F72; 
+    padding: 8px;
+    text-align: left;
+  }
+  
+  table th {
+    background-color: #4B3F72; 
+    color: #fff;
+  }
+  
+  
+  input[type="text"], input[type="email"], input[type="password"], input[type="number"] {
+    width: 100%;
+    padding: 8px;
+    margin-top: 5px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+  }
+  
+  button {
+    background-color: #FFC857; 
+    color: #fff;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+  }
+  
+  /* esto es para cuando pasas el raton*/
+  button:hover {
+    background-color: #4B3F72; 
+  }
+  
+
+  ul, ol {
+    padding-left: 20px;
+    color: #333;
+  }
+  
+  ul li, ol li {
+    margin-bottom: 5px;
+  }
+  
+  
+  footer {
+    background-color: #1F2041; 
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+  }
+  
